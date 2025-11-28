@@ -98,11 +98,8 @@ streamlit
 Execute este comando na pasta do projeto:
 
 ```bash
-streamlit run app.py
+streamlit run proj.py
 ```
-
-Ou substitua `app.py` pelo nome do seu arquivo principal.
-
 ---
 
 ## 📊 **Como Usar a Aplicação**
